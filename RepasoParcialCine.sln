@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RepasoParcialCine", "RepasoParcialCine.csproj", "{4B1776EB-C8CF-4C31-BBEA-01235020954E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4B1776EB-C8CF-4C31-BBEA-01235020954E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B1776EB-C8CF-4C31-BBEA-01235020954E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B1776EB-C8CF-4C31-BBEA-01235020954E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B1776EB-C8CF-4C31-BBEA-01235020954E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BE82D07B-3082-40D6-8A93-02FA91756C19}
+	EndGlobalSection
+EndGlobal
